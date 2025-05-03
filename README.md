@@ -1,5 +1,5 @@
 # MSAICLOUDAPPS
-## Building AI Cloud Apps with Microsoft Azure Specialization
+## Building AI Cloud Apps with Microsoft Azure Specialization (10 course series)
 
 This Building AI Cloud Apps with Microsoft Azure program offers a comprehensive nine-course program that covers a wide range of topics on developing cloud and AI solutions with Microsoft Azure, including Azure Functions, Azure Service Bus,  Azure Storage, Azure Virtual Machines, and Azure App Service. 
 
